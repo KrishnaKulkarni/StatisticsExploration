@@ -1,0 +1,31 @@
+Question: Is our current DCR higher than our normal DCR with statistical significance?
+
+Definitions
+----------
+conversion rate: total conversions/ total sessions
+
+*current* daily conversion rate:
+
+*normal* conversion rate: average daily conversion rate over past 3 months
+
+
+Today
+-----
+1000 sessions
+10 conversions
+
+today's DCR: 0.01
+
+Past 3 Months
+-------------
+150,000 sessions
+1200 conversions
+
+90 days
+
+mean DCR: 0.008
+
+
+
+
+
